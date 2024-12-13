@@ -7,8 +7,8 @@ const teamMembers = [
     role: 'AI Research Engineer',
     image: 'src/images/wasay.jpeg',
     social: {
-      github: '#',
-      linkedin: '#',
+      github: 'https://github.com/Wasay-Rana',
+      linkedin: 'www.linkedin.com/in/wasay786',
       email: 'wasay@edgevision.ai'
     }
   },
@@ -17,8 +17,8 @@ const teamMembers = [
     role: 'AI Research Engineer',
     image: 'src/images/manahil.jpeg',
     social: {
-      github: '#',
-      linkedin: '#',
+      github: 'https://github.com/Manahil-04',
+      linkedin: 'https://www.linkedin.com/in/manahilmushtaq/',
       email: 'manahil@edgevision.ai'
     }
   },
@@ -27,7 +27,7 @@ const teamMembers = [
     role: 'Supervisor',
     image: 'src/images/khawar.jpeg',
     social: {
-      linkedin: '#',
+      linkedin: 'https://www.linkedin.com/in/khawarkhurshid',
       email: 'khawar@edgevision.ai'
     }
   },
@@ -36,7 +36,7 @@ const teamMembers = [
     role: 'Co-Supervisor',
     image: 'src/images/shahzad.jpeg',
     social: {
-      linkedin: '#',
+      linkedin: 'https://www.linkedin.com/in/shahzad-arif-341973116',
       email: 'shahzad@edgevision.ai'
     }
   }
