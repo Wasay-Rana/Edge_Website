@@ -5,7 +5,7 @@ const teamMembers = [
   {
     name: 'Wasay',
     role: 'AI Research Engineer',
-    image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?auto=format&fit=crop&q=80',
+    image: 'src/images/wasay.jpeg',
     social: {
       github: '#',
       linkedin: '#',
@@ -15,7 +15,7 @@ const teamMembers = [
   {
     name: 'Manahil',
     role: 'AI Research Engineer',
-    image: 'https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80',
+    image: 'src/images/manahil.jpeg',
     social: {
       github: '#',
       linkedin: '#',
@@ -25,7 +25,7 @@ const teamMembers = [
   {
     name: 'Dr. Khawar Khurshid',
     role: 'Supervisor',
-    image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80',
+    image: 'src/images/khawar.jpeg',
     social: {
       linkedin: '#',
       email: 'khawar@edgevision.ai'
@@ -34,7 +34,7 @@ const teamMembers = [
   {
     name: 'Dr. Shahzad Arif',
     role: 'Co-Supervisor',
-    image: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80',
+    image: 'src/images/shahzad.jpeg',
     social: {
       linkedin: '#',
       email: 'shahzad@edgevision.ai'
